@@ -69,6 +69,7 @@ public class PaymentService {
         System.out.println("Reward points added");
     }
 
+    //TODO TEST PROJECT
     public void checkout(List<Double> items,
                          boolean vip,
                          boolean premiumMember) {
